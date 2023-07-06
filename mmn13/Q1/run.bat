@@ -1,0 +1,2 @@
+java MultiChoiceApplication
+pause

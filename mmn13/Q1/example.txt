@@ -1,0 +1,20 @@
+What is the capital of Israel?
+Jerusalem
+Tel Aviv
+Raanana
+Beer Sheva
+Who is the president of the United States of America?
+Joe Biden
+Donald Trump
+Barack Obama
+George Washington Jr.
+What is the shortest month of the year?
+Februrary
+January
+August
+December
+The most common programming language today is?
+Python
+C
+Java
+Ruby
